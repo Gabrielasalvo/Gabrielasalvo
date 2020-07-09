@@ -1,9 +1,9 @@
-###
+### Gabriela Salvo
 
-<!--
-**Gabrielasalvo/Gabrielasalvo** 
+``
+Desenvolvedora Web Full-Stack 
+``
 
 
-- 🔭 Me formando em desenvolvedora Web Full-Stack
 
--->
+
