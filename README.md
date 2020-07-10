@@ -8,7 +8,7 @@ Desenvolvedora Web Full-Stack
 
 >Trabalho bem em equipe e possuo desenvoltura para resolução de problemas e muita dedicação para aprendizado tendo realizado vários projetos individuais e em grupo >no curso que fiz e paralelamente.
 
->Gosto muito de ensinar porque aprecio ver meus colegas vencendo também. 
+
  * HTLM
  * CSS
  * JavaScript
