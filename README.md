@@ -3,7 +3,7 @@
 ``
 Desenvolvedora Web Full-Stack 
 ``
-
+[https://img.shields.io/badge/-Linkedin-blue](https://twitter.com/gabs_j)
 
 
 > Formanda de WEB FULL-STACK, onde aprendi as ferramentas HTML; CSS; SQL; Git; AWS; Node.js; React.js; Redux; Github; Typescript; Unit Testing; Firebase; Clean >Architecture; Metodologia Ágil.
