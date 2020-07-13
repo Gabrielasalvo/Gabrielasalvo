@@ -15,6 +15,8 @@ Desenvolvedora Web Full-Stack
 > Trabalho bem em equipe e possuo desenvoltura para resolução de problemas e muita dedicação para aprendizado tendo realizado vários projetos individuais e em >grupo no curso que fiz e paralelamente.
  
  :video_game: Tenho como hobby jogar video-game
+ 
+ 
  :pushpin: Rio de Janeiro/RJ
 
 :space_invader:
