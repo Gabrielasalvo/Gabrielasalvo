@@ -5,8 +5,7 @@ Desenvolvedora Web Full-Stack
 ``
 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/gabriela-salvo1991/)
-&nbsp;
+https://img.shields.io/badge/<Linkedin>--<BLUE>
 [![Twitter](https://external-preview.redd.it/fq6OBU0iddv4aOjv-RWrHCnK3vsKrkW6JMzmb1HK2ek.png?auto=webp&s=0ef1e412213e4dc6f3adced574a47161389a4d53) LinkedIn](https://twitter.com/gabs_js)
 
 
