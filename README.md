@@ -3,6 +3,9 @@
 ``
 Desenvolvedora Web Full-Stack 
 ``
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/gabriela-salvo1991/)
+&nbsp;
+
 
 > Formanda de WEB FULL-STACK, onde aprendi as ferramentas HTML; CSS; SQL; Git; AWS; Node.js; React.js; Redux; Github; Typescript; Unit Testing; Firebase; Clean >Architecture; Metodologia Ágil.
 
