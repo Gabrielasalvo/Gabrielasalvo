@@ -20,15 +20,8 @@ Desenvolvedora Web Full-Stack
  :pushpin: Rio de Janeiro/RJ
 
 :space_invader:
- * HTLM
- * CSS
- * JavaScript
- * Typescript
- * NodeJS
- * React 
- * Redux 
- * SQL 
- * AWS
 
+
+> "bem começado, metade feito!". - Aristóteles.
 
 
