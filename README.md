@@ -1,9 +1,8 @@
 ## Gabriela Salvo
 
-``
-Desenvolvedora Web Full-Stack 
+:space_invader: Desenvolvedora Web Full-Stack 
 
-``
+
 
 
 
@@ -28,7 +27,7 @@ Desenvolvedora Web Full-Stack
  
  :pushpin: Rio de Janeiro/RJ
 
-:space_invader:
+
 
 
 > "bem começado, metade feito!". - Aristóteles.
