@@ -2,9 +2,10 @@
 
 ``
 Desenvolvedora Web Full-Stack 
-![](https://media.giphy.com/media/55SfA4BxofRBe/giphy.gif)
 
 ``
+![](https://media.giphy.com/media/55SfA4BxofRBe/giphy.gif)
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&linkhttps://www.linkedin.com/in/gabriela-salvo1991/)](https://www.linkedin.com/in/gabriela-salvo1991/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gabs_js)](https://twitter.com/gabs_js)
