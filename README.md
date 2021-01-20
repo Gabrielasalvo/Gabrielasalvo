@@ -18,17 +18,9 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/gabrielasalvo)](https://t.me/gabrielasalvo)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:leu1607@gmail.com)](mailto:gabrielamdesalvo@gmail.com)
 
-> :computer: Desenvolvedora FullStack. Uso ferramentas HTML; CSS; SQL; Git; AWS; Node.js; React.js; Redux; Github; Typescript; Unit Testing; Firebase; Clean Architecture; Metodologia Ágil.
 
-> Trabalho bem em equipe e possuo desenvoltura para resolução de problemas e muita dedicação para aprendizado tendo realizado vários projetos individuais e em >grupo no curso que fiz e paralelamente.
- 
  :video_game: Jogo videogame nas horas vagas
  
- 
- :pushpin: Rio de Janeiro/RJ
-
-
-
 
 > "bem começado, metade feito!". - Aristóteles.
 
