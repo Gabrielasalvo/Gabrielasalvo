@@ -1,9 +1,8 @@
 ## Gabriela Salvo
 
-:space_invader: Desenvolvedora Web Full-Stack 
+Desenvolvedora Web Full-Stack 
 
-
-
+Software developer | TS, JS, Node, React, Redux, SQL, AWS, Testing, Git
 
 
 ![](https://media.giphy.com/media/55SfA4BxofRBe/giphy.gif)
