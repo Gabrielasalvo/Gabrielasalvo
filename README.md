@@ -1,8 +1,6 @@
 ## Gabriela Salvo
 
-Desenvolvedora Web Full-Stack 
 
-Software developer | TS, JS, Node, React, Redux, SQL, AWS, Testing, Git
 
 
 ![](https://media.giphy.com/media/55SfA4BxofRBe/giphy.gif)
@@ -15,6 +13,6 @@ Software developer | TS, JS, Node, React, Redux, SQL, AWS, Testing, Git
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:leu1607@gmail.com)](mailto:gabrielamdesalvo@gmail.com)
 
 
-> "bem começado, metade feito!". - Aristóteles.
+> A sorte favorece quem tenta
 
 
